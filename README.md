@@ -1,4 +1,5 @@
 This model describes how builder/solver concentration in block production changes as a function of block time.
+It's inspired by this discussion on X: https://x.com/RyanSAdams/status/1991896909955604816
 
 Model assumptions:
 
